@@ -12,6 +12,7 @@
 
 # Funding goal
 
-... Describe how much you need and what the payment plan should be ...
+... Describe how much you need and what the payment plan should be. 
+Provide your address if you are going to work on the proposal yourself ...
 
-*Example: 500 CLO. One time payment.*
+*Example: 500 CLO. One time payment. My address is 0x00a5f830891c826fef69f2836cb5ea87d4a05474.*
