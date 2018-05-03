@@ -1,4 +1,4 @@
-# Treasury.
+# Treasury
 
 Callisto Network implemented a Treasury model. A certain part of the reward from each block is allocated for the Callisto Team to fund the further development of the project.
 
