@@ -26,6 +26,10 @@ The payment will be sent from [Callisto Treasury](https://cloexplorer.org/addr/0
 
 All proposals, proposal discussions, financial operations and decisions made by Callisto Team are transparently available to all community members and any discussions are always welcome.
 
+# We are hiring
+
+Also, Callisto Team will publish announcements about the hiring of specialists at Callisto Proposals/issues. For any questions about hiring for full-time or part-time job, contact dexaran@callisto.network or comment the corresponding issue.
+
 # Financial transparency
 
 Callisto team adheres to the policy of [financial transparency](https://github.com/EthereumCommonwealth/Roadmap/issues/48).
