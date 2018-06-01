@@ -42,3 +42,9 @@ Each financial operation of [Staking Reserve address](https://cloexplorer.org/ad
 
 [Callisto Treasury financial report.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTHbKD9_qqc2pzivkn-U6reX6pR3WF1-ryX-ZRNtCy54bg0q8JaM_VcoctRll1SgiX7t7UwN1BqOZN-/pubhtml?gid=1393329941&single=true)
 
+# Proposal labels
+
+- `accepted` - the proposal is available for picking, and the one who implements it will receive the reward.
+- `rejected` - the proposal is NOT available for picking. The reward will not be paid for the implementation of this proposal.
+- `in-progress` - the implementation of this proposal is already started.
+- `on hold` - the proposal is in discussion stage or under consideration.
