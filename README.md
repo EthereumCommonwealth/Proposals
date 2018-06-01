@@ -47,4 +47,5 @@ Each financial operation of [Staking Reserve address](https://cloexplorer.org/ad
 - `accepted` - the proposal is available for picking, and the one who implements it will receive the reward.
 - `rejected` - the proposal is NOT available for picking. The reward will not be paid for the implementation of this proposal.
 - `in-progress` - the implementation of this proposal is already started.
-- `on hold` - the proposal is in discussion stage or under consideration.
+- `on-hold` - the proposal is in discussion stage or under consideration.
+- `hire` - the proposal is an open position at Callisto Team.
