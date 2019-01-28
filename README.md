@@ -63,7 +63,7 @@ All proposals, proposal discussions, financial operations and decisions made by 
 
 # We are hiring
 
-Also, Callisto Team will publish announcements about the hiring of specialists at Callisto Proposals/issues. For any questions about hiring for full-time or part-time job, contact dexaran@callisto.network or comment the corresponding issue.
+Callisto Team will publish announcements about the hiring of specialists at Callisto Proposals/issues. For any questions about hiring for full-time or part-time job, contact dexaran@callisto.network or comment the corresponding issue.
 
 # Financial transparency
 
