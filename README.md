@@ -8,6 +8,41 @@ A certain portion of this budget can be spent for funding community proposals.
 
 Any member of the community can create a funding proposal. A community member can propose any activity that contributes to the improvement of the Callisto project. The proposal creator can himself implement this proposal and receive a payment for it, or leave the proposal open so that other community members can work on it and receive a reward.
 
+# Proposal handling
+
+Since January 28, 2019, proposals will be reviewed by @Dexaran twice a week (every Monday and Thursday). After the proposal has been reviewed, it will be assigned the appropriate status (label). It should be noted that the proposals may not only be the goals of funding. Proposals may represent information such as hiring details, open vacancies or freelancers guidelines. In this case, informational proposal will be reviewed and considered by Callisto Team and an appropriate status will be assigned.
+
+Each proposal can have the following labels:
+
+- *no label* - this proposal is not yet reviewed.
+
+- `accepted` - contributors can start working on the implementation of this proposal. The funding goal of this proposal will be paid for the successful implementation **OR** information provided in this proposal is accepted by Callisto Team.
+
+- `rejected` - the implementation of this proposal will not be paid **OR** information provided in this proposal is **not** accepted by Callisto Team.
+
+- `in-progress` - this proposal is accepted and contributors are already working on its implementation on the agreed terms.
+
+- `under consideration` - this proposal has been reviewed, but the decision has not yet been made. This proposal requires a discussion within the Callisto Team or with the community in the corresponding issue comment thread.
+
+- `on-hold` -  this proposal has been reviewed. This proposal has been postponed and is not currently being discussed.
+
+- `withdrawn` - this proposal is invalid or outdated.
+
+- `spam` - this proposal is not related to Callisto Network  or duplicates another proposal.
+
+- `hire` - additional label that marks proposals related to hiring.
+
+### Proposal closing
+
+Most of proposals are not closed immediately after the decision is made. When a proposal is considered for the first time, it is assigned a status label representing the decision regarding the proposal. Proposals with assigned statuses remain open and the authors of the proposals can leave comments and provide arguments regarding their position.If the proposal with the status `rejected` or `withdrawn` is revised and the decision is not changed, then the proposal is closed.
+
+`accepted` proposals are closed when the payment for the proposal implementation is made. `accepted` informational proposals are closed after the official announcement is made.
+
+`spam` proposals are closed immediately.
+
+For questions, feedback and reports: dexaran@callisto.network
+
+
 # Submitting a proposal
 
 Follow these steps to submit a proposal:
